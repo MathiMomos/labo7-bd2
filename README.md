@@ -5,3 +5,4 @@ Base de Datos II
 Davalos Velazco Gabriel Mathias 23200252
 ### Docente:
 Jorge Luis Chávez Soto
+- **El laboratorio se encuentra en el archivo `queries.sql`**
